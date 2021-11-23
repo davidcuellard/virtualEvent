@@ -407,6 +407,7 @@ footer{
     font-weight: bold;
     font-size: 20px;
     text-align: center;
+    margin: 0px;
 }
 
 .subtitulo{
@@ -473,15 +474,17 @@ footer{
 
         align-items: center;
         justify-content: space-evenly;
+        
+        .main__nosotrosLeft{
+            margin: 10px 0px 10px 0px;
+        }
+        
+        .main__nosotrosRight{
+            margin: 10px 0px 10px 0px;
+        }
     }
 
-    .main__nosotrosLeft{
-        margin: 0px;
-    }
-    
-    .main__nosotrosRight{
-        margin: 0px;
-    }
+
 
 
     .main__Room{

@@ -368,7 +368,8 @@ footer {
   color: #e2e2e2;
   font-weight: bold;
   font-size: 20px;
-  text-align: center; }
+  text-align: center;
+  margin: 0px; }
 
 .subtitulo {
   color: #e2e2e2;
@@ -409,10 +410,10 @@ footer {
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly; }
-  .main__nosotrosLeft {
-    margin: 0px; }
-  .main__nosotrosRight {
-    margin: 0px; }
+    .main__Nosotros .main__nosotrosLeft {
+      margin: 10px 0px 10px 0px; }
+    .main__Nosotros .main__nosotrosRight {
+      margin: 10px 0px 10px 0px; }
   .main__Room {
     display: flex;
     flex-direction: column;
