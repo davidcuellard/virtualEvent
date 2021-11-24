@@ -394,6 +394,9 @@ footer{
 .main__policy{
     margin-left: 100px;
     margin-right: 100px;
+    p{
+        margin-top: 20px;
+    }
 }
 
 .contador{
@@ -476,10 +479,12 @@ footer{
         justify-content: space-evenly;
         
         .main__nosotrosLeft{
+            width: 350px;
             margin: 10px 0px 10px 0px;
         }
         
         .main__nosotrosRight{
+            width: 350px;
             margin: 10px 0px 10px 0px;
         }
     }
@@ -555,6 +560,16 @@ footer{
             height: 150px;
         }
     }
+
+    .main__policy{
+        margin-left: 50px;
+        margin-right: 50px;
+        p{
+            
+            width: 320px;
+        }
+    }
+
 }
 
 @media only screen and (min-width: 559px) and (max-width: 965px) {

@@ -358,6 +358,8 @@ footer {
 .main__policy {
   margin-left: 100px;
   margin-right: 100px; }
+  .main__policy p {
+    margin-top: 20px; }
 
 .contador {
   color: #e2e2e2;
@@ -411,8 +413,10 @@ footer {
     align-items: center;
     justify-content: space-evenly; }
     .main__Nosotros .main__nosotrosLeft {
+      width: 350px;
       margin: 10px 0px 10px 0px; }
     .main__Nosotros .main__nosotrosRight {
+      width: 350px;
       margin: 10px 0px 10px 0px; }
   .main__Room {
     display: flex;
@@ -452,7 +456,12 @@ footer {
       font-size: 14px; }
   .speakersRight .speakers {
     width: 150px;
-    height: 150px; } }
+    height: 150px; }
+  .main__policy {
+    margin-left: 50px;
+    margin-right: 50px; }
+    .main__policy p {
+      width: 320px; } }
 
 @media only screen and (min-width: 559px) and (max-width: 965px) {
   header {
