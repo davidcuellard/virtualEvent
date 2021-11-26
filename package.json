@@ -1,5 +1,6 @@
 {
-  "name": "clase11",
+  "name": "virtualEventDemo",
+  "description": "Plataform to stream virtual events DEMO. CoderHouse final project",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
