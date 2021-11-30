@@ -220,7 +220,7 @@ header {
       text-align: center; }
       .main__Agenda .main__agendaRight .linkCalendar a {
         color: #e2e2e2;
-        text-decoration: none;
+        text-decoration: underline;
         font-size: 18px; }
     .main__Agenda .main__agendaRight .table__Agenda .calendar {
       color: #e2e2e2;
