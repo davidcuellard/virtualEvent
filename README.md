@@ -1,10 +1,10 @@
 @author: DAVID CUELLAR
 
-Course: Web development - CoderHouse
+Curso: Web development - CoderHouse
 
 Proyecto Final
 
-Objective: Develop a web page using html and css
+Objetivo: Develop a web page using html and css
 
 
 En la consola de comandos, ejecutamos:
